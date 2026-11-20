@@ -1,0 +1,17 @@
+[browser]
+gatherUsageStats = false
+
+[server]
+address = "127.0.0.1"
+
+[theme]
+base = "light"
+primaryColor = "#087f73"
+backgroundColor = "#ffffff"
+secondaryBackgroundColor = "#f0f6f7"
+textColor = "#192c36"
+borderColor = "#dce8eb"
+showSidebarBorder = true
+showWidgetBorder = true
+dataframeHeaderBackgroundColor = "#eef5f5"
+chartCategoricalColors = ["#087f73", "#bc641e", "#4a649c", "#7e4c97"]

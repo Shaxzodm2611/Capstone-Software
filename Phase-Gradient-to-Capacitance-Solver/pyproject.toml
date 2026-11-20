@@ -1,0 +1,10 @@
+[project]
+name = "phase-gradient-to-capacitance-solver"
+version = "0.1.0"
+description = "Local RIS steering and HFSS capacitance lookup"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "pandas>=2.2,<4",
+    "streamlit>=1.56,<2",
+]
